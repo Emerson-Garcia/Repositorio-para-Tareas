@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tarea(2)", "tarea(2)\tarea(2).csproj", "{B745819E-92AA-46D2-8DF5-6A23189A0E1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B745819E-92AA-46D2-8DF5-6A23189A0E1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B745819E-92AA-46D2-8DF5-6A23189A0E1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B745819E-92AA-46D2-8DF5-6A23189A0E1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B745819E-92AA-46D2-8DF5-6A23189A0E1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AFE64C7-1174-4238-AB9B-65D3E4831670}
+	EndGlobalSection
+EndGlobal
